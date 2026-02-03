@@ -5,7 +5,7 @@ This project features a clean sidebar navigation and a full-screen hero section 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Sidebar navigation menu
   - Gallery
