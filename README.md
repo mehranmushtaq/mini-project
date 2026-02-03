@@ -22,7 +22,7 @@ This project features a clean sidebar navigation and a full-screen hero section 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -30,7 +30,7 @@ This project features a clean sidebar navigation and a full-screen hero section 
 - Google Fonts (if used)
 
 ---
-## 📌 Future Improvements
+## Future Improvements
 
  -Add JavaScript for interactivity
  -Make sidebar toggleable on mobile
