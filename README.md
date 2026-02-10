@@ -20,7 +20,6 @@ This project features a clean sidebar navigation and a full-screen hero section 
 - Smooth and clean layout
 - Responsive-friendly structure (can be extended)
 
----
 
 ##  Technologies Used
 
@@ -29,7 +28,6 @@ This project features a clean sidebar navigation and a full-screen hero section 
 - Font Awesome (for icons)
 - Google Fonts (if used)
 
----
 ## Future Improvements
 
  -Add JavaScript for interactivity
