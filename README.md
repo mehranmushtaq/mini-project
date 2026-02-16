@@ -11,7 +11,7 @@ This project features a clean sidebar navigation and a full-screen hero section 
   - Gallery
   - Shortcuts
   - Exhibits
-  - Events
+  - Event
   - Store
   - Contact
   - Feedback
