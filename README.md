@@ -11,7 +11,7 @@ This project features a clean sidebar navigation and a full-screen hero section 
   - Gallery
   - Shortcuts
   - Exhibits
-  - Event
+  - Events
   - Store
   - Contact
   - Feedback
@@ -26,7 +26,7 @@ This project features a clean sidebar navigation and a full-screen hero section 
 - **HTML5**
 - **CSS3**
 - Font Awesome (for icons)
-- Google Fonts (if used)
+- Google Fonts
 
 ## Future Improvements
 
