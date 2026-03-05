@@ -31,6 +31,9 @@ This project features a clean sidebar navigation and a full-screen hero section 
 ## Future Improvements
 
  -Add JavaScript for interactivity
+
  -Make sidebar toggleable on mobile
+
  -Add gallery and event pages
+
  -Improve responsiveness
