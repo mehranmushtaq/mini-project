@@ -3,7 +3,6 @@
 A modern and minimal photography-themed website built using **HTML and CSS**.  
 This project features a clean sidebar navigation and a full-screen hero section showcasing a camera image, giving it a professional portfolio/gallery feel.
 
----
 
 ## Features
 
